@@ -1,75 +1,85 @@
-# License
+# AS-IS SOFTWARE LICENSE AGREEMENT
 
-**Copyright © 2026 Niesmann-Pflug ZEMA GbR. All rights reserved.**
+**IMPORTANT – READ CAREFULLY**
 
-This document applies to the software contained in this repository/directory, including all source code, documentation, and accompanying materials (hereinafter "the Software").
+This AS-IS Software License Agreement (the “Agreement”) is a legal agreement between you (either an individual or a single entity) and the Licensor identified below. By downloading, installing, copying, accessing, or otherwise using the software, documentation, or any related materials (collectively, the “Software”), you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not download, install, copy, access, or use the Software.
 
----
+## 1. Licensor
 
-## 1. Preamble
+The Licensor of the Software is:
 
-The source code of this Software is made publicly available (e.g., on GitHub) for the purpose of transparency, traceability, and learning. Public visibility does **not** mean that the Software is thereby released for free use, modification, or redistribution. This is explicitly **not** open-source software as defined by the OSI or FSF.
+**ATT IT**  
+Philippe Simon Pflug  
+Hardenburgweg 19  
+76187 Karlsruhe  
+Germany  
 
-## 2. Ownership of Rights
+Website: [att-it.com](https://att-it.com)  
+Contact: [service@att-it.com](mailto:service@att-it.com)
 
-The exclusive usage and exploitation rights to the Software are held by **Niesmann-Pflug ZEMA GbR**. Publishing the source code does not constitute a transfer, license, or other grant of rights to third parties, except as expressly set out below.
+## 2. Grant of License
 
-## 3. Permitted Use
+Subject to the terms and conditions of this Agreement, the Licensor hereby grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to use the Software solely for your own private, personal, non-commercial purposes, and only in its original, unmodified form.
 
-Any person may, within the limits of applicable law:
+## 3. Obligation to Openly Disclose Free Private Use
 
-- **view and read** the published source code,
-- study it for **private, non-commercial purposes** (e.g., to learn from it or understand how it works),
-- **use the Software in unmodified form** in their own projects, including commercial projects (for example as a library or dependency).
+In the case of free (non-commercial) use by private individuals, the use of the Software must be openly disclosed and clearly named. This means that any private person using the Software free of charge is required to publicly and visibly state that the Software is being used, including proper attribution to the Licensor (ATT IT / Philippe Simon Pflug). Failure to openly disclose such use constitutes a material breach of this Agreement.
 
-Unmodified form means the Software as published, without creating modifications, adaptations, translations, or derivative works.
+## 4. Licensor’s Right to Prohibit Use
 
-Use under this section **does not** require prior written permission, naming of the copyright holder, trademark use, or citation of the source.
+The Licensor reserves the unrestricted right to prohibit, suspend, or terminate the use of the Software by any person or entity at any time, for any reason or for no reason, and with respect to any kind of use whatsoever (including private, personal, non-commercial, or any other use). Such prohibition may be exercised at the sole discretion of the Licensor and may be communicated by any means, including but not limited to written notice, email, or public announcement. Upon such prohibition, all rights granted under this Agreement shall immediately cease, and you must promptly stop all use of the Software and destroy all copies in your possession or control.
 
-## 4. Prohibited Without Prior Written Permission
+## 5. Restrictions
 
-The following actions, in particular, are **not permitted without prior written consent** from Niesmann-Pflug ZEMA GbR:
+You may not, and you agree not to permit any third party to:
 
-- Creating modifications, adaptations, translations, or derivative works
-- Redistributing the Software except as an unmodified dependency of your own project under Section 3
-- Passing the Software off as your own
-- Removing, altering, or obscuring copyright, trademark, or other proprietary notices in the Software itself
-- Reverse engineering for the purpose of circumventing these restrictions
+- (a) modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based upon the Software, in whole or in part;
+- (b) use the Software for any commercial purpose whatsoever, including but not limited to selling, licensing, renting, leasing, or otherwise commercially exploiting the Software or any portion thereof;
+- (c) distribute, publish, sublicense, assign, transfer, or otherwise make available the Software to any third party, except as expressly permitted under Section 6 below;
+- (d) remove, alter, or obscure any proprietary notices, labels, or marks on or in the Software;
+- (e) use the Software in any manner that violates applicable laws or regulations.
 
-## 5. Requesting Permission
+Any commercial use or modification of the Software is strictly prohibited under this Agreement. For any commercial projects or commercial use, separate licenses must be acquired directly from the Licensor. Commercial licenses can be obtained via the website [att-it.com](https://att-it.com) or by contacting [service@att-it.com](mailto:service@att-it.com). No commercial rights are granted by implication, estoppel, or otherwise under this Agreement.
 
-Anyone wishing to obtain usage rights beyond those described in Section 3 (e.g., modification) may contact:
+## 6. Redistribution
 
-**Contact:** legal@zema.gg
+Redistribution of the Software is permitted only under the following strict conditions:
 
-Permission is only valid if granted **in writing** (email is sufficient).
+- (a) You must obtain prior written permission from the Licensor for any redistribution;
+- (b) Redistribution is allowed solely for private, non-commercial use by the recipient;
+- (c) The Software must be redistributed in its complete, original, and unmodified form;
+- (d) This Agreement and all proprietary notices must accompany every copy of the Software that is redistributed;
+- (e) You may not charge any fee for the Software itself.
 
-## 6. Violations
+Any redistribution that does not strictly comply with the above conditions is prohibited and constitutes a material breach of this Agreement.
 
-In the event of a breach of these terms, Niesmann-Pflug ZEMA GbR expressly reserves the right to pursue legal remedies, including but not limited to:
+## 7. Ownership
 
-- Injunctive relief (cease-and-desist)
-- Claims for damages
-- Claims for accounting and disgorgement of profits
+The Software is licensed, not sold. The Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein. Nothing in this Agreement transfers any ownership rights to you.
 
-## 7. No Warranty
+## 8. AS-IS Disclaimer of Warranties
 
-The Software is provided "as is," without warranty of any kind, express or implied, to the extent permitted by law. No liability is assumed for damages arising from the use or inability to use the Software, to the extent permitted by law.
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, OR COMPLETENESS. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, OPERATE WITHOUT INTERRUPTION, BE ERROR-FREE, OR THAT ANY DEFECTS WILL BE CORRECTED. YOU ASSUME ALL RESPONSIBILITY AND RISK FOR THE USE OF THE SOFTWARE.
 
-## 8. Severability
+## 9. Limitation of Liability
 
-Should any individual provision of this license be or become invalid, the validity of the remaining provisions shall remain unaffected.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSOR, ITS AFFILIATES, OR THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES) ARISING OUT OF OR RELATED TO THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE TOTAL LIABILITY OF THE LICENSOR UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT (IF ANY) ACTUALLY PAID BY YOU FOR THE SOFTWARE.
 
-## 9. Governing Law
+## 10. Termination
 
-This license is governed by the laws of the Federal Republic of Germany. The place of jurisdiction is, to the extent legally permissible, Karlsruhe.
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from the Licensor if you fail to comply with any term of this Agreement, or if the Licensor exercises its right to prohibit use under Section 4. Upon termination, you must immediately cease all use of the Software and destroy all copies in your possession or control. Sections 3, 4, 5, 7, 8, 9, 11, and 12 shall survive termination.
 
----
+## 11. Governing Law and Jurisdiction
 
-*Note: This license is not a substitute for an open-source license and does not grant any rights within the meaning of the Open Source Definition (OSI) or the Free Software Definition (FSF).*
+This Agreement shall be governed by and construed in accordance with the laws of the Federal Republic of Germany, without regard to its conflict of law principles. Any dispute arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the courts located in Karlsruhe, Germany.
 
----
+## 12. Miscellaneous
 
-## Third-party code
+- (a) This Agreement constitutes the entire agreement between you and the Licensor concerning the Software and supersedes all prior or contemporaneous agreements, representations, and understandings.
+- (b) If any provision of this Agreement is held to be unenforceable, the remaining provisions shall continue in full force and effect.
+- (c) The failure of the Licensor to enforce any right or provision shall not constitute a waiver of such right or provision.
+- (d) You may not assign this Agreement without the prior written consent of the Licensor.
 
-Original `com.lumaserv.netflow` code is owned by [LUMASERV/netflow-java](https://github.com/LUMASERV/netflow-java) and remains licensed under the Apache License 2.0. That third-party license is unchanged by this document.
+**BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.**
+
+© ATT IT / Philippe Simon Pflug. All rights reserved.
